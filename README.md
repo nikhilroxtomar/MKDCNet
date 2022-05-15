@@ -18,7 +18,7 @@ Qualitative result comparison of the model trained and tested on several medical
 Please cite our work if you find it useful. 
 
 <pre>
-@INPROCEEDINGS{8959021,
+@INPROCEEDINGS{tomarMKDCNet,
   author={N.Tomar and A. Srivastava and U. Bagci and D. Jha},
   title={Automatic Polyp Segmentation with Multiple Kernel Dilated Convolution Network}, 
   year={2022}}
