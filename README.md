@@ -14,11 +14,12 @@ The detection and removal of precancerous polyps through colonoscopy is the prim
 ## Results (Quantitative results)
 Qualitative result comparison of the model trained and tested on several medical image segmentation dataset <br/>
 <br/>
-
+### Same dataset
 | ![Table 1](images/table_1.png) |
 | :--: |
 | *Quantitative results on the experimented datasets* |
 
+### Cross dataset
 | ![Table 2](images/table_2.png) |
 | :--: |
 | *Quantitative results on the unseen polyp dataset.* |
