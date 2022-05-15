@@ -8,12 +8,16 @@ The detection and removal of precancerous polyps through colonoscopy is the prim
 Block diagram of the Multiple Kernel Dilated Convolution Network<br/>
 <img src="mkdl-net.jpg">
 
+
 ## Results (Quantitative results)
+
 Qualitative result comparison of the model trained and tested on several medical image segmentation dataset <br/>
 <img src="table1.png">
 <img src="table1.png">
 
+
 ## Results (Qualitative results and Heatmap)
+
 Qualitative result comparison of the model trained and tested on several medical image segmentation dataset <br/>
 <img src="qualitative-heatmap.jpg">
 
