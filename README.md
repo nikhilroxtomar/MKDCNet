@@ -1,1 +1,1 @@
-# MKDCNet: Muplitple Kernel Dilated Convolution Network 
+# MKDCNet: Multitple Kernel Dilated Convolution Network 
